@@ -4,8 +4,7 @@
 
 Given a list of over 500 cities randomly drawn from an OpenWeatherMap API, a visualizaton application was created using HTML, CSS, and Javascript. Further, it uses component code block from Bootstrap and Bootswatch. This web application examines the affect that latitude does or does not have on cities located near the equator. Morevever, the applicaton renders graphical depictons of the correlation between latitude vis-a-vis temperature, humidity, cloudiness, and wind velocity.
 
-## Website Link:
-
+## Website Link: https://github.com/G6-2Flyy/Web-Visualization-Challenge
 ### This website includes the following seven pages:
 
 * (1) Landing Page
